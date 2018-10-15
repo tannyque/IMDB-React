@@ -12,7 +12,7 @@ const MovieList = (props) => {
     <div className="movie-list">
       {movies}
     <br />
-      <p><a href="">See more openings this week</a></p>
+      <p><a href=".">See more openings this week</a></p>
     </div>
   );
 }
