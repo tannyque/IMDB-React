@@ -1,8 +1,10 @@
 import React, { Component } from 'react';
+import MovieContainer from './containers/MovieContainer'
+
 
 class App extends Component {
   render() {
-    return "Hello world!"
+    return <MovieContainer />
   }
 }
 
