@@ -1,5 +1,11 @@
 # React IMDB Homework
 
+## How to load the app 
+
+```bash
+npm start
+```
+
 ## Reading
 
 Thinking In React (20 mins) https://facebook.github.io/react/docs/thinking-in-react.html
