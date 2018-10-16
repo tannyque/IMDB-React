@@ -17,11 +17,21 @@ code {
   monospace;
 }
 
+p {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+a {
+  color: #ff0000;
+}
+
 .button {
   font: bold 12px Arial;
   background-color: #136CB2;
   color: white;
-  padding: 2px 6px 2px 6px;
+  /* padding: 2px 6px 2px 6px; */
+  padding: 20px;
   border-top: 1px solid #CCCCCC;
   border-right: 1px solid #333333;
   border-bottom: 1px solid #333333;
