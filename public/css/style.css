@@ -1,6 +1,5 @@
 body {
-  background: linear-gradient(to right, #c9d6ff, #e2e2e2);
-  background-image: url(day_and_night.jpg);
+  background-image: url(../images/day_and_night.jpg);
   background-position: top;
   margin: 0;
   padding: 0;

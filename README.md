@@ -1,10 +1,19 @@
 # React IMDB Homework
 
-## How to load the app 
+## How to load the app
 
-```bash
+Download the repo and enter the following into the console whilst in the root directory:
+
+```
+npm install
+```
+
+Run the app in development mode (leave running in a terminal window):
+
+```
 npm start
 ```
+Open http://localhost:3000 to view it in the browser if it does not automatically open.
 
 ## Reading
 
